@@ -1,0 +1,11 @@
+{
+	"id": "obsidian-magtuon-plugin",
+	"name": "Obsidian Magtuon",
+	"version": "0.0.1a",
+	"minAppVersion": "1.11.1",
+	"description": "A plugin to help focus and configure what to focus on",
+	"author": "Richard Domingo",
+	"authorUrl": "https://blog.chardskarth.me",
+	"fundingUrl": "https://ko-fi.com/V7V3166L2K",
+	"isDesktopOnly": false
+}
